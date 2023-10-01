@@ -1,0 +1,14 @@
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\bin\Debug\net7.0\Sem_4_dz.exe
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\bin\Debug\net7.0\Sem_4_dz.deps.json
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\bin\Debug\net7.0\Sem_4_dz.runtimeconfig.json
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\bin\Debug\net7.0\Sem_4_dz.dll
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\bin\Debug\net7.0\Sem_4_dz.pdb
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\obj\Debug\net7.0\Sem_4_dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\obj\Debug\net7.0\Sem_4_dz.AssemblyInfoInputs.cache
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\obj\Debug\net7.0\Sem_4_dz.AssemblyInfo.cs
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\obj\Debug\net7.0\Sem_4_dz.csproj.CoreCompileInputs.cache
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\obj\Debug\net7.0\Sem_4_dz.dll
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\obj\Debug\net7.0\refint\Sem_4_dz.dll
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\obj\Debug\net7.0\Sem_4_dz.pdb
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\obj\Debug\net7.0\Sem_4_dz.genruntimeconfig.cache
+C:\Users\b.irada\Desktop\Experience\Sem_4_dz\obj\Debug\net7.0\ref\Sem_4_dz.dll
